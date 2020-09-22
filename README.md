@@ -1,4 +1,4 @@
-## About Laravel
+## Note
 
 There are two users 
 
