@@ -5,7 +5,7 @@
 <div class="alert-bootstrap"></div>
 <div class="card">
     <div class="card-body">
-    <h2 class="card-title">Create Blog</h2>
+    <h2 class="card-title">Edit Blog</h2>
         <form class="edit-blog-form">
             <div class="form-group">
                 <label for="exampleFormControlTextarea1">Blog Title</label>

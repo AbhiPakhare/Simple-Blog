@@ -25,7 +25,7 @@ Auth::routes();
 * Guest Routes
 */
 Route::get('guest/home', [HomeController::class, 'index'])->name('home');
-Route::get('guest/posts/{id}', [PostController::class, 'guestPost'])->name('home');
+Route::get('guest/posts/{id}', [PostController::class, 'guestPost']);
 /* 
 * Author Routes
 */
