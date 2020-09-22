@@ -1,4 +1,4 @@
-## Note
+## Note : Login credentials
 
 There are two users 
 
