@@ -1,0 +1,16 @@
+.accordion > .card > .card-header {
+    margin-bottom: 0 !important ;
+}
+.pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.paginator-results {
+    margin-top: 15px;
+}
+
+.filter-heading {
+    margin-top: 30px;
+}

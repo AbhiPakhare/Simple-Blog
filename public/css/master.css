@@ -1,0 +1,27 @@
+.container-fluid {
+    margin-top: 30px;
+}
+.accordion {
+    margin-top: 30px;
+}
+
+.btn:not(:disabled):not(.disabled):active:focus, .btn:not(:disabled):not(.disabled).active:focus {
+    box-shadow: none !important;
+}
+
+.card {
+    margin-bottom: 0 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+.margin-20px {
+    margin-top: 16px !important;
+}
+
+.create-btn {
+    margin-top: 15px;
+}
+.flex-container {
+        display: flex;
+    align-items: end;
+}
